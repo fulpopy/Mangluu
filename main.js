@@ -17,4 +17,4 @@ navBar.forEach(function (a){
         navCollapse.classList.remove("show");
     })
 })
-
+//this is the main js file
